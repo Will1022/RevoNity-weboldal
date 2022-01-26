@@ -4,6 +4,15 @@
     font-weight: bolder;
 }
 
+body{
+    margin: auto;
+    background-image: url(https://cdn.discordapp.com/attachments/806632517964791818/839953635286450177/unknown.png);
+}
+
+.sectionresz{
+    background-color: rgba(0, 0, 0, 0.87);
+}
+
 /* TIMER */
 
 #timer {
