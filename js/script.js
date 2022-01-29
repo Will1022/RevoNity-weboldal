@@ -21,3 +21,4 @@ function updateTimer() {
         '<div>' + s + '<span>Másodperc</span></div>';
 }
 setInterval('updateTimer()', 1000);
+
