@@ -107,7 +107,8 @@ body{
     background-color: black;
     background-attachment: fixed;  
     background-size: cover;
-    background-image: url(https://cdn.discordapp.com/attachments/806632517964791818/839953635286450177/unknown.png);
+    background-repeat: no-repeat;
+    background-image: url(https://cdn.discordapp.com/attachments/512016969961308171/937116615856763020/unknown.png);
 }
 
 h3 {
