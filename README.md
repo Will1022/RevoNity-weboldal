@@ -1,2 +1,0 @@
-# RevoNity weboldal
- RevoNity website

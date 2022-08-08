@@ -25,90 +25,13 @@ body::-webkit-scrollbar-thumb
 	background-color: rgb(92, 92, 92);
     /* background-image:  radial-gradient(circle, rgba(0,108,154,1) 0%, rgba(90,0,154,1) 100%); */
 }
- 
-
-
-@media screen {
-    /* TIMER */
-    .tbody {
-        text-align: center;
-        padding: 100px 60px;
-        background: rgba(33, 37, 41, 0.5);
-        font-family: sans-serif;
-        font-weight: lighter;
-        border-radius: 20px;
-        }  
-
-    #timer {
-        font-size: 3em;
-        font-weight: 100;
-        color: white;
-        padding: 20px;
-        width: auto;
-        color: white;
-        
-    }
-
-    #timer div {
-        display: inline-block;
-        min-width: 140px;
-        padding: 15px;
-        background: rgba(0,0,0, 0.05);
-        border-radius: 10px;
-        margin-top: 3vh;
-        margin-right: 3vh;
-        margin-left: 3vh;
-        /*box-shadow: inset 0 0 40px 1px rgba(204, 0, 255, 0.1), 0 0 20px 1px rgba(0, 174, 255, 0.1);*/
-        box-shadow: inset 10px 10px 20px 0 rgba(0, 174, 255, 0.1),
-                    inset -10px -10px 20px 0 rgba(204, 0, 255, 0.1),
-                    5px 5px 40px 1px rgba(204, 0, 255, 0.2),
-                    -5px -5px 40px 1px rgba(0, 174, 255, 0.2);
-    }
-
-    #timer div span {
-        color: #ffffff;
-        display: block;
-        margin-top: 15px;
-        font-size: .35em;
-        font-weight: 400;
-    }
-}
-
-/* TIMER RESZPONZÍV FIX */
-
-@media screen and (max-width: 600px) {
-    #timer div {
-        display: inline-table;
-        min-width: 120px;
-        padding: 15px;
-        border-radius: 4px;
-        margin-right: 1vh;
-        margin-left: 3.5vh;
-    }
-  }
-
-  @media screen and (max-width: 450px) {
-    #timer div {
-        display: inline-table;
-        min-width: 120px;
-        padding: 15px;
-        border-radius: 4px;
-        margin-right: 3vh;
-        margin-left: 1vh;
-    }
-  }
-
-
 
 body{
-    margin: auto;
-    height: auto;
-    width: auto;
     background-color: black;
     background-attachment: fixed;  
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(https://cdn.discordapp.com/attachments/512016969961308171/937116615856763020/unknown.png);
+    background-image: url(https://cdn.discordapp.com/attachments/512016969961308171/948010791691501708/RevoNity_hatter.webp);
 }
 
 h3 {
@@ -125,5 +48,8 @@ h3 {
 }
 
 .subcontainer{
-    background: rgba(33, 37, 41, 0.5)
+    background-color: rgba(33, 37, 41, 0.5);
 }
+
+/* SZABÁLYZAT */
+
